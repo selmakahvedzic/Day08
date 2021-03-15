@@ -1,6 +1,6 @@
 //Write code below this line
 function reusableFunction() {
-  console.log("Hi Pawdan!");
+  console.log("Hi Padawan!");
 }
 
 reusableFunction();
